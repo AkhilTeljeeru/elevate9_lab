@@ -1,0 +1,22 @@
+ nmap -sS ******
+
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2025-09-22 08:48 EDT
+
+Stats: 0:00:06 elapsed; 0 hosts completed (0 up), 255 undergoing ARP Ping Scan
+
+ARP Ping Scan Timing: About 66.67% done; ETC: 08:48 (0:00:04 remaining)
+
+Stats: 0:00:08 elapsed; 0 hosts completed (0 up), 255 undergoing ARP Ping Scan
+
+ARP Ping Scan Timing: About 78.43% done; ETC: 08:48 (0:00:02 remaining)
+
+Nmap scan report for ******
+
+Host is up (0.000014s latency).
+
+All 1000 scanned ports on ****** are in ignored states.
+
+Not shown: 1000 closed tcp ports (reset)
+
+Nmap done: 256 IP addresses (1 host up) scanned in 10.97 seconds
+
